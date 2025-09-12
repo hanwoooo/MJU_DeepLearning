@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "봄날",
+    "artist": "방탄소년단",
+    "genre": "K-Pop",
+    "mood": "아련한"
+  },
+  {
+    "id": 2,
+    "title": "밤편지",
+    "artist": "아이유",
+    "genre": "발라드",
+    "mood": "차분한"
+  },
+  {
+    "id": 3,
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "genre": "록",
+    "mood": "웅장한"
+  },
+  {
+    "id": 4,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "genre": "팝",
+    "mood": "신나는"
+  },
+  {
+    "id": 5,
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "genre": "펑크",
+    "mood": "신나는"
+  },
+  {
+    "id": 6,
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "genre": "팝",
+    "mood": "슬픈"
+  },
+  {
+    "id": 7,
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "genre": "록",
+    "mood": "몽환적인"
+  },
+  {
+    "id": 8,
+    "title": "붉은 노을",
+    "artist": "빅뱅",
+    "genre": "K-Pop",
+    "mood": "신나는"
+  },
+  {
+    "id": 9,
+    "title": "좋은 날",
+    "artist": "아이유",
+    "genre": "K-Pop",
+    "mood": "발랄한"
+  },
+  {
+    "id": 10,
+    "title": "My Way",
+    "artist": "Frank Sinatra",
+    "genre": "재즈",
+    "mood": "감성적인"
+  },
+  {
+    "id": 11,
+    "title": "Fly Me to the Moon",
+    "artist": "Frank Sinatra",
+    "genre": "재즈",
+    "mood": "로맨틱한"
+  },
+  {
+    "id": 12,
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "genre": "팝",
+    "mood": "로맨틱한"
+  }
+]
